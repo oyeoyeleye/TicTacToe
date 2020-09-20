@@ -1,0 +1,7 @@
+target/
+resources/
+.classpath
+.project
+.settings
+.vscode/
+bash.exe.stackdump
